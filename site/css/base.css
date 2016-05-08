@@ -39,11 +39,16 @@ h1{
 	border: 2px solid black;
 	float: left;
 	margin:10px 0 20px 20px;
-	
-
   }
   .col-md-6 {
     width: 46%;
+  }
+  .col-md-1{
+  	width: 95%;
+  	background: gray;
+	border: 2px solid black;
+	float: left;
+	margin:10px 0 20px 20px;
   }
   
 }
